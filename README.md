@@ -48,4 +48,4 @@ python tcp_socket_test.py
 
 ## 许可证
 
-MIT License
+GNU GPL v3
