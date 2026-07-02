@@ -48,4 +48,4 @@ Type `exit` to quit the program.
 
 ## License
 
-MIT License
+GNU GPL v3
